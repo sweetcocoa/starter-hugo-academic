@@ -22,28 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+        
+  - title: Software Engineer (As Substitutional Military Service)
+    company: GemizipSoft
+    company_url: 'http://www.gemizip.com/'
+    company_logo: gemizip
+    location: Seoul
+    date_start: '2016-07-01'
+    date_end: '2017-09-01'
+    description: Real-time Derivative Trading Data Feeding System
+
+  - title: Research Engineer (As Substitutional Military Service)
+    company: ESTsoft
+    company_url: 'https://www.estsoft.ai/'
+    company_logo: estsoft  
+    location: Seoul
+    date_start: '2017-09-01'
+    date_end: '2020-01-01'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        * DL-based [Eyeware Image Retrieval System](https://www.estsoft.ai/product/retrieval) 
+        * 3D AR [Eyeware Rendering Library](https://www.estsoft.ai/product/vf)
+
+  - title: Research Intern
+    company: Kakao Corp
+    company_url: 'https://www.kakaocorp.com/'
+    company_logo: kakao
+    location: SeongNam
+    date_start: '2020-06-28'
+    date_end: '2020-07-28'
+    description: Recommendation Team(Kakao RecoTeam)
 
 design:
   columns: '2'
