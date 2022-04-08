@@ -40,8 +40,8 @@ experience:
     date_start: '2017-09-01'
     date_end: '2020-01-01'
     description: |2-
-        * DL-based [Eyeware Image Retrieval System](https://www.estsoft.ai/product/retrieval) 
-        * 3D AR [Eyeware Rendering Library](https://www.estsoft.ai/product/vf)
+        * DL-based [Eyeware Image Retrieval System](https://m.blog.naver.com/estpublic/221764081831) 
+        * 3D AR [Eyeware Rendering Library](https://www.estsoft.ai/ourtech/vf)
 
   - title: Research Intern
     company: Kakao Corp

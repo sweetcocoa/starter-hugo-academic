@@ -6,7 +6,7 @@ title: Jongho Choi
 superuser: true
 
 # Role/position/tagline
-role: MS/PhD Student (2020~)
+role: MS Student (2020~)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -15,15 +15,16 @@ organizations:
 
 # Interests to show in About widget
 interests:
+- Deep Learning
 - Automatic Music Transcription
+- Automatic Piano Arrangement
 - Music Recommendation
-- Neural Music Representation
 
 # Education to show in About widget
 education:
   courses:
-  - course: MS/PhD (Integrated) in Intelligence and Information
-    institution: GSCST, Seoul National University
+  - course: MS student in Intelligence and Information
+    institution: Graduate School of Convergence Science and Technology, Seoul National University
     year: 2020~
   - course: BS in Electrical and Computer Engineering
     institution: Dept. of Engineering, Seoul National University
@@ -55,6 +56,6 @@ email: ""
 highlight_name: false
 ---
 
-I dream of making AI understand music. There are good neural representation models in the fields of Computer Vision and NLP, but what about music?
+Broad and shallow knowledge could be a good weight initialization for various problems.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
